@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief relation of the taking of Bridgewater by the Parliaments forces under the command of Sir Tho: Fairfax; and therein, all the Lord Gorings train, 36. pieces of ordnance, 2000. prisoners, 800. horse, with great store of oxen. Sent in a letter to the Committee of both Kingdoms. Together with a letter concerning the delivering up of Pontefract Castle by treaty to the use of the Parliament, with all things therein. Also, hopes of reducing Scarbrough by treaty. Sent to the Honorable, William Lenthall Esq; Speaker to the House of Commons. Ordered by the Commons in Parliament, that these letters be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Bedford, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76315</idno>
+            <idno type="STC">Wing B1666</idno>
+            <idno type="STC">Thomason E293_26</idno>
+            <idno type="STC">ESTC R200168</idno>
+            <idno type="EEBO-CITATION">99860973</idno>
+            <idno type="PROQUEST">99860973</idno>
+            <idno type="VID">113100</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113100)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E293[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief relation of the taking of Bridgewater by the Parliaments forces under the command of Sir Tho: Fairfax; and therein, all the Lord Gorings train, 36. pieces of ordnance, 2000. prisoners, 800. horse, with great store of oxen. Sent in a letter to the Committee of both Kingdoms. Together with a letter concerning the delivering up of Pontefract Castle by treaty to the use of the Parliament, with all things therein. Also, hopes of reducing Scarbrough by treaty. Sent to the Honorable, William Lenthall Esq; Speaker to the House of Commons. Ordered by the Commons in Parliament, that these letters be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Bedford, Samuel.</author>
+                  <author>Pierrepont, Francis, d. 1659.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>6, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husband, printer to the Honorable House of Commons:,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Iuly 25. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "brief relation", dated July 23, is by Samuel Bedford, whose name appears on p. 3; the letter is dated and signed: York the 20. of Iuly, 1645. Fran Pierrepont, Wilfrid Lawson, Henry Cholmley.</note>
+                  <note>With a final order to print.</note>
+                  <note>Reproduction of the original in the British Library</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>Bridgwater (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113100:1" rendition="simple:additions"/>
+            <p>A Brief RELATION OF The taking of <hi>Bridgewater</hi> by the Parliaments Forces under the command of Sir <hi>Tho: Fairfax;</hi> and therein, all the Lord <hi>Gorings</hi> Train, 36. pieces of Ordnance, 2000. priſoners, 800. horſe, with great ſtore of Oxen.</p>
+            <p>Sent in a Letter to the Committee of both Kingdoms.</p>
+            <p>Together with A Letter concerning the deliver<g ref="char:EOLhyphen"/>ing up of <hi>Pontefract Caſtle</hi> by Treaty to the uſe of the Parliament, with all the things therein.</p>
+            <p>Alſo, hopes of reducing <hi>Scarbrough</hi> by treaty.</p>
+            <p>Sent to the Honorable, <hi>William Lenthall</hi> 
+               <abbr>Eſq</abbr> Speaker to the Houſe of <hi>COMMONS.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons in Parliament, That theſe Letters be forthwith printed and publiſhed:</p>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>London, Printed for <hi>Edw. Husband,</hi> Printer to the Ho<g ref="char:EOLhyphen"/>norable Houſe of Commons: Iuly 25. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113100:2"/>
+            <pb n="3" facs="tcp:113100:2"/>
+            <head>From Maſter <hi>Samuel Bedford,</hi> Scout-Maſter to the Committee of both Kingdoms.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Fter the Generall had taken this ſide of the Town, we Summoned the Town, they altogether refuſed, and fired that part of the Town we had taken. The Generall Summoned it again, and told them they ſhould march away, or elſe if they would yield on ſome further condition; they de<g ref="char:EOLhyphen"/>nyed, ſaid they would ſtand it out to
+<pb n="4" facs="tcp:113100:3"/>the laſt man: The Generall perceived their fury, ſent to them that he would give leave for all the women and chil<g ref="char:EOLhyphen"/>dren to come out of the Town: The Governour returned thanks, ſent his wife and many Ladyes out; then our men ſhot wilde-fire into the Town and fired it; whereupon, the Governour ſent out to the Generall to Parley: Our Generall refuſed, only he would be mercifull and ſpare their lives; where<g ref="char:EOLhyphen"/>upon they yielded themſelves Priſo<g ref="char:EOLhyphen"/>ners: There was all the Lord <hi>Gorings</hi> train, 36. Peeces of Ordnance, 2000. Priſoners at the leaſt, 800. Horſe, and great ſtore of Oxen.</p>
+            <closer>
+               <dateline>
+                  <date>July 23. four in the morning.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:113100:3"/>
+            <head>To the Honourable <hi>VVilliam Lenthall</hi> Eſquire, Speaker of the Houſe of Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE thought fit the laſt week to Summon <hi>Ponte<g ref="char:EOLhyphen"/>fract</hi> Caſtle, which cauſed the enemy to deſire a Trea<g ref="char:EOLhyphen"/>ty; whereupon we appointed Col: <hi>Waſtell,</hi> Col: <hi>Copley,</hi> Col: <hi>Overton,</hi> and Col: <hi>Bright,</hi> or any three of them to Treat; and this day it is agreed, that the Caſtle ſhall be delivered up to the uſe of the Parliament, to morrow at eight of the Clock in the morning, with all the things therein, ſave that the Officers are allowed to carry away what is properly their own, ſo that it
+<pb n="6" facs="tcp:113100:4"/>exceed not what a Cloth-bag will con<g ref="char:EOLhyphen"/>tain; and the Souldiers to March to <hi>Newark</hi> with 200. Muskets, and 200. Pikes. VVe conſented to ſo good con<g ref="char:EOLhyphen"/>ditions, becauſe the Plague is very hot in the Country, and eſpecially in that Town, of which ſome of our Souldi<g ref="char:EOLhyphen"/>ers are dead. VVe are alſo in Treaty with <hi>Scarbrough,</hi> which we hope ſhort<g ref="char:EOLhyphen"/>ly will be Reduced. Thus much we thought fit to give you notice of, de<g ref="char:EOLhyphen"/>ſiring the Houſe may be acquainted therewith: From</p>
+            <closer>
+               <dateline>York <date>the
+20. of <hi>Iuly,</hi> 1645.</date>
+               </dateline>
+               <signed>Your very affectio<g ref="char:EOLhyphen"/>nate Friends and humble Servants,
+<list>
+                     <item>Fran. Pierrepont,</item>
+                     <item>Wilfrid Lawſon,</item>
+                     <item>Henry Cholmley.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="license">
+            <pb facs="tcp:113100:4"/>
+            <opener>
+               <dateline>
+                  <date>Iulii 24. 1645.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons Aſſembled in Parliament, That theſe Letters concerning the taking of <hi>Bridgewater</hi> and <hi>Pontefract</hi> Caſtle, be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
